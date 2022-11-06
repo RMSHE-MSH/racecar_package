@@ -1,0 +1,2 @@
+racecar_package
+-DCATKIN_DEVEL_PREFIX=/home/rmshe/project_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rmshe/project_ws/install -G Unix Makefiles
